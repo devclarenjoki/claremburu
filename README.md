@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Clare Mburu, a frontend developer with a graphic design background.
+My name is Clare Mburu, a frontend developer with a focus on React and Typescript.
 
 Check out my portfolio here(https://claremburu.netlify.app/)
 
