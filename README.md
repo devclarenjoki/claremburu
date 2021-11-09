@@ -2,7 +2,7 @@
 
 My name is Clare Mburu, a frontend developer with a focus on React and Typescript.
 
-Check out my portfolio here(https://claremburu.netlify.app/)
+Check out my portfolio [here](https://claremburu.netlify.app/)
 
 - 🔭 I’m currently working on an ecommerce platform. Check it out here https://github.com/claremburu/waridi
 - 🌱 I’m currently learning web3, blockchain, cryptocurrency
