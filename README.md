@@ -6,6 +6,8 @@ My name is **Clare Mburu**, a frontend web developer with a focus on Javascript 
 
 Check out my portfolio [here](https://claremburu.netlify.app/)
 
+ ✍️## Technical Writing
+
 ## ![image](https://user-images.githubusercontent.com/32388364/147145975-98285583-b657-4115-a21b-4617238a1316.png)Technical Writing
 
 - 🌱 I am a Front End Web Developer with 3 years experience.  
