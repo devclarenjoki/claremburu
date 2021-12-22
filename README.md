@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/claremburu/<OWNER>/<OWNER>/readme header.jpg "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 My name is **Clare Mburu**, a frontend web developer with a focus on Javascript frameworks and UI/UX design.
