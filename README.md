@@ -1,4 +1,4 @@
-https://github.com/claremburu/claremburu/blob/main/readme-header.jpg
+![Header](https://github.com/claremburu/claremburu/blob/main/readme-header.jpg)
 
 ### Hi there 👋
 
