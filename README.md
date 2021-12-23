@@ -7,7 +7,7 @@ My name is **Clare Mburu**, a frontend web developer with a focus on Javascript 
 Check out my portfolio [here](https://claremburu.netlify.app/)
 
 ## Frontend Development
-## UI/UX
+## ![image](https://user-images.githubusercontent.com/32388364/147183727-2e3e13c3-7d36-4d75-892b-93ff4f59079f.png) UI/UX
 ## ✍️ Technical & Blog Writing
 
 
