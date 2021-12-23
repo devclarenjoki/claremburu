@@ -1,10 +1,9 @@
 ![Header](https://github.com/claremburu/claremburu/blob/main/readme-header.jpg)
 
 <h1 align="center">
-<img src="https://github.com/claremburu/claremburu/blob/main/wave.gif" width="30px"> Hi, I'm Clare
+<img src="https://github.com/claremburu/claremburu/blob/main/wave.gif" width="30px"> Hey there, welcome!
 </h1>
-
-Hey there, welcome!<br />
+Hi, I'm Clare Mburu
 I'm a Front-End Developer💻, UI/UX Designer🎨, and, Technical & Blog Article Writer✒️.<br />
   
 - 👯 I have extensive expertise in Front-End Development, UI/UX Design, and Technical & Blog Article writing.<br /> 
