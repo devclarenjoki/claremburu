@@ -1,13 +1,13 @@
 ![Header](https://github.com/claremburu/claremburu/blob/main/readme-header.jpg)
 
-### Hi there 👋
+### Hi there <img src="https://github.com/claremburu/claremburu/blob/main/wave.gif" width="30px">
 
 My name is **Clare Mburu**, a frontend web developer with a focus on Javascript frameworks and UI/UX design.
 
 Check out my portfolio [here](https://claremburu.netlify.app/)
 
 ## 👩‍💻 Frontend Development
-##  UI/UX
+##  UI/UX 
 ## ✍️ Technical & Blog Writing
 
 
