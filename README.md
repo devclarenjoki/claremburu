@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://github.com/claremburu/claremburu/blob/main/wave.gif" width="30px">
 
-My name is **Clare Mburu**, a frontend web developer with a focus on Javascript frameworks and UI/UX design.
+My name is **Clare Mburu**, a frontend web developer with an 
 
 Check out my portfolio [here](https://claremburu.netlify.app/)
 
@@ -16,4 +16,7 @@ Check out my portfolio [here](https://claremburu.netlify.app/)
 - 💬 I also work with supporting technologies and frameworks including; Javascript ES6, API development, Data Structures and Algorithms, Typescript and Redux.
 - 🔭 I’m currently working on an ecommerce platform. Check it out here https://github.com/claremburu/waridi
 - 📫 How to reach me: mburuclare8@gmail.com, LinkedIn:https://www.linkedin.com/in/claremburu/
-- 😄 Pronouns: She/Her
+
+I am currently loking for a full-time role in front-end development and UI/UX design. 
+Also, feel free to reach out to me for consulting, volunteering or just for some interesting discussion. 
+- 📫 How to reach me: mburuclare8@gmail.com, LinkedIn:https://www.linkedin.com/in/claremburu/
