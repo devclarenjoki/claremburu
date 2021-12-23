@@ -40,6 +40,7 @@ Also, feel free to reach out to me for consulting, volunteering or just for some
 📫 Where to find me
 </h2>
 
+<h2 align="center">
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
 </a>
@@ -58,14 +59,17 @@ Also, feel free to reach out to me for consulting, volunteering or just for some
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/twitter.png" width="45px">
 </a>
-
+</h2>
+  
 <h2 align="center">
 📫 How to contact me
 </h2>
 
+<h2 align="center">
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/gmail.png" width="45px">
 </a>
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/linkedin.png" width="45px">
 </a>
+</h2>
