@@ -2,8 +2,8 @@
 
 ## <img src="https://github.com/claremburu/claremburu/blob/main/wave.gif" width="30px"> Hi, I'm Clare
 
-Hey there, welcome!
-I am Clare Mburu, Front-End Developer from Nairobi, 🇰🇪 Kenya.
+Hey there, welcome!<br />
+I am Clare Mburu, a Front-End Developer from Nairobi, Kenya.
   
 - 👯 I have extensive expertise in web development with focus on MERN (MongoDB, Express.js, React.js and Node.js) stack.
 - 💬 I also work with supporting technologies and frameworks including; Javascript ES6, API development, Data Structures and Algorithms, Typescript and Redux.
