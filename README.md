@@ -5,7 +5,7 @@
 </h1>
 
 Hey there, welcome!<br />
-I'm a Front-End Developer💻, UI/UX Designer🎨 and Technical & Blog Article Writer✒️.<br />
+I'm a Front-End Developer💻, UI/UX Designer🎨, and Technical & Blog Article Writer✒️.<br />
   
 - 👯 I have extensive expertise in Front-End Development, UI/UX Design, and Technical & Blog Article writing.<br /> 
 - 🔭 I have worked on a range of projects. Check out one of my projects, Waridi Ecommerce, [here](https://github.com/claremburu/waridi).<br />
