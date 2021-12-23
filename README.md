@@ -14,15 +14,31 @@ I'm a Front-End Developer💻, UI/UX Designer🎨, and, Blog & Technical Writer�
 - ✍🏼 Check out some of my articles on [Medium](https://claremburu.medium.com/).<br />
 - 🚧 Check out some of my UI/UX concepts and designs on [Behance](https://www.behance.net/claremburu).<br />
 
-## 👩‍💻 Front-End Development
-## 🛠️ UI/UX 
-## ✍️ Technical & Blog Article Writing
-stats
+<h2 align="center">
+👩‍💻 Front-End Development
+</h2>
 
+<h2 align="center">
+🛠️ UI/UX 
+</h2>
+
+<h2 align="center">
+✍️ Technical & Blog Article Writing
+</h2>
+
+<h2 align="center">
+Stats
+</h2>
+
+<h2 align="center">
+Brief
+</h2>
 I am currently loking for a full-time role in front-end development and UI/UX design. 
 Also, feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 
-## 📫 Where to find me
+<h2 align="center">
+📫 Where to find me
+</h2>
 
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
@@ -42,8 +58,10 @@ Also, feel free to reach out to me for consulting, volunteering or just for some
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/twitter.png" width="45px">
 </a>
-  
-## 📫 How to contact me
+
+<h2 align="center">
+📫 How to contact me
+</h2>
 
   <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/gmail.png" width="45px">
