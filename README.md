@@ -23,10 +23,43 @@ I am currently loking for a full-time role in front-end development and UI/UX de
 Also, feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 
 ## 📫 Where to find me
-<align="center">
+<section align="center">
 <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
+ <br />
+ My Portfolio
 </a>
-</align>
+  
+<a href="www.linkedin.com/in/claremburu">
+<img src="https://github.com/claremburu/claremburu/blob/main/linkedin.png" width="45px">
+ <br />
+ My Portfolio
+</a> 
+</section>
+
+<a href="https://claremburu.netlify.app/">
+<img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
+ <br />
+ My Portfolio
+</a>
+
+<a href="https://claremburu.netlify.app/">
+<img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
+ <br />
+ My Portfolio
+</a>
+
+<a href="https://claremburu.netlify.app/">
+<img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
+ <br />
+ My Portfolio
+</a>
+
+<a href="https://claremburu.netlify.app/">
+<img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
+ <br />
+ My Portfolio
+</a>
+
 ## 📫 How to contact me
 -  mburuclare8@gmail.com, LinkedIn:https://www.linkedin.com/in/claremburu/
