@@ -6,7 +6,7 @@ Hey there, welcome!<br />
 I am Clare Mburu, Front-End Developer from <img src="https://github.com/claremburu/claremburu/blob/main/ke.png" width="15px"> **Nairobi, Kenya.**
   
 - 👯 I have extensive expertise in Front-End Development, UI/UX Design, and Technical & Blog Article writing. 
-- 🔭 I have worked on a range of projects. Check out one of my projects, Waridi Ecommerce, here https://github.com/claremburu/waridi
+- 🔭 I have worked on a range of projects. Check out one of my projects, Waridi Ecommerce, [here](https://github.com/claremburu/waridi)
 - 🌱 Check out my Portfolio Website [here](https://claremburu.netlify.app/)
 - 💡 I like to explore new trends and learn new technologies.
 - ✍🏼 Check out some of my articles on Medium.
