@@ -33,8 +33,7 @@ Stats
 <h2 align="center">
 Brief
 </h2>
-I am currently loking for a full-time role in front-end development and UI/UX design. 
-Also, feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+Feel free to reach out to me for consulting, offers for a full-time role, volunteering or just for some interesting discussion.
 
 <h2 align="center">
 📫 Where to find me
