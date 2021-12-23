@@ -23,9 +23,10 @@ I am currently loking for a full-time role in front-end development and UI/UX de
 Also, feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 
 ## 📫 Where to find me
+<align="center">
 <a href="https://claremburu.netlify.app/">
 <img src="https://github.com/claremburu/claremburu/blob/main/world-wide-web.png" width="45px">
 </a>
-
+</align>
 ## 📫 How to contact me
 -  mburuclare8@gmail.com, LinkedIn:https://www.linkedin.com/in/claremburu/
