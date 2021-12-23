@@ -15,18 +15,6 @@ I'm a Front-End Developer💻, UI/UX Designer🎨, and, Blog & Technical Writer�
 - 🚧 Check out some of my UI/UX concepts and designs on [Behance](https://www.behance.net/claremburu).<br />
 
 <h2 align="center">
-👩‍💻 Front-End Development
-</h2>
-
-<h2 align="center">
-🛠️ UI/UX 
-</h2>
-
-<h2 align="center">
-✍️ Technical & Blog Article Writing
-</h2>
-
-<h2 align="center">
 Stats
 </h2>
 
